@@ -1,3 +1,22 @@
 /*******************************
     User Variable Overrides
 *******************************/
+/* Checkbox */
+@checkboxActiveBackground: @teal;
+@checkboxActiveBorderColor: @teal;
+@checkboxActiveCheckColor: @white;
+
+@checkboxActiveFocusBackground: @teal;
+@checkboxActiveFocusBorderColor: @teal;
+@checkboxActiveFocusCheckColor: @white;
+
+@checkboxTransition: none;
+
+/* Radio */
+@radioActiveBackground: @teal;
+@radioActiveBorderColor: @white;
+@radioActiveBulletColor: @white;
+
+@radioActiveFocusBackground: @teal;
+@radioActiveFocusBorderColor: @white;
+@radioActiveFocusBulletColor: @white;
