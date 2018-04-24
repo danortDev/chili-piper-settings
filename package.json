@@ -1,0 +1,16 @@
+{
+  "name": "chili-piper-settings",
+  "version": "1.0.0",
+  "description": "A simple markdown for the chili piper settings page",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danortDev/chili-piper-settings.git"
+  },
+  "author": "danortDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danortDev/chili-piper-settings/issues"
+  },
+  "homepage": "https://github.com/danortDev/chili-piper-settings#readme"
+}
