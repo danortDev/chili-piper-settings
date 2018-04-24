@@ -529,10 +529,10 @@
 
 /* Orange */
 .ui.orange.segment:not(.inverted) {
-  border-top: 2px solid #F2711C !important;
+  border-top: 2px solid #FF5D47 !important;
 }
 .ui.inverted.orange.segment {
-  background-color: #F2711C !important;
+  background-color: #FF5D47 !important;
   color: #FFFFFF !important;
 }
 
@@ -565,10 +565,10 @@
 
 /* Teal */
 .ui.teal.segment:not(.inverted) {
-  border-top: 2px solid #00B5AD !important;
+  border-top: 2px solid #00AEF2 !important;
 }
 .ui.inverted.teal.segment {
-  background-color: #00B5AD !important;
+  background-color: #00AEF2 !important;
   color: #FFFFFF !important;
 }
 
