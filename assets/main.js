@@ -37,6 +37,7 @@ $(function() {
 
   initSidebar();
   $('.dropdown').dropdown();
+  $('.ui.accordion').accordion();
 
   $(window).resize(() => {
     initSidebar();

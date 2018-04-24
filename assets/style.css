@@ -1,12 +1,3 @@
-#container {
-  display: flex;
-}
-
-#sidebar,
-#content {
-  display: flex;
-}
-
 @media (max-width: 768px) {
   .desktop {
     display: none !important;
@@ -17,4 +8,25 @@
   .mobile {
     display: none !important;
   }
+}
+
+#container {
+  display: flex;
+}
+
+#sidebar,
+#content {
+  display: flex;
+}
+
+.sidebar {
+  display: flex;
+  min-height: calc(100vh - 54px); /* the height of the top menu */
+  height: 100%;
+}
+
+.sidebar .ui.vertical.menu {
+  box-shadow: unset;
+  border-top: none;
+  border-bottom: none;
 }
