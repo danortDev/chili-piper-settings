@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/danortDev/chili-piper-settings/issues"
   },
-  "homepage": "https://github.com/danortDev/chili-piper-settings#readme"
+  "homepage": "https://github.com/danortDev/chili-piper-settings#readme",
+  "devDependencies": {
+    "semantic-ui": "^2.3.1"
+  }
 }
