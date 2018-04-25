@@ -12,6 +12,7 @@
 
 #container {
   display: flex;
+  background: #F7F7F8;
 }
 
 #sidebar,
