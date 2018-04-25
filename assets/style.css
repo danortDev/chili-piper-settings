@@ -20,6 +20,10 @@
   display: flex;
 }
 
+#desktop-sidebar {
+  min-width: 200px;
+}
+
 .sidebar {
   display: flex;
   min-height: calc(100vh - 54px); /* the height of the top menu */
